@@ -13,8 +13,8 @@
 
 <h2>My Knowledge Portfolio</h2>
 <ul>
-  <li>Java</li>
+  <li>Java/Kotlin</li>
   <li>Web Development (HTML, CSS, JavaScript)</li>
   <li>JavaScript Frameworks(Angular, React)</li>
-  <li>Flutter</li>
+  <li>Flutter/Dart</li>
 </ul>
