@@ -1,20 +1,22 @@
-
-<h2>Notice: If you see this message, this page is still alpha stage... not ready for consumption but feel free to look!</h2>
-<br>
 <h1>Hello, my name is Timm McLaughlin</h1>
 
-
-<br>
-
-
 <h2>About Me</h2>
-
-<p> I currently work as a QA Engineer, but like most, I code on the side.</p>
+<ul>
+  <li>Developer - 6 years</li>
+  <li>Dad - 12 years</li>
+  <li>Gamer - 28 years</li>
+  <li>Nerd - forever</li>
+</ul>
 
 <h2>My Knowledge Portfolio</h2>
 <ul>
-  <li>Java/Kotlin</li>
-  <li>Web Development (HTML, CSS, JavaScript)</li>
-  <li>JavaScript Frameworks(Angular, React)</li>
-  <li>Flutter/Dart</li>
+  <li>Java / Kotlin - 5 years</li>
+  <li>Web Development (HTML, CSS, JavaScript) - 5 years</li>
+  <li>JavaScript Frameworks(Angular, React) - 2 years</li>
+  <li>Flutter / Dart - 1 year</li>
 </ul>
+
+<p>I love to learn about new technologies, and discovering new ways to solve old problems.</p>
+
+
+<h6>updated 2021</h6>
