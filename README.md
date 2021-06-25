@@ -16,7 +16,7 @@
   <li>Flutter / Dart - 1 year</li>
 </ul>
 
-<p>I love to learn new technologies, and discovering new ways to solve old problems.</p>
+<p>I love to learn new technologies, and discovering new ways to solve problems.</p>
 
 
 <h6>updated 2021</h6>
